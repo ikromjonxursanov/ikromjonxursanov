@@ -48,6 +48,12 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 
 ---
 
+## 📈 GitHub Contributions
+
+![Ikromjon's GitHub contributions](https://ghchart.rshah.org/ikromjonxursanov)
+
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ikromjonxursanov)
