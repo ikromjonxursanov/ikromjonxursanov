@@ -1,3 +1,7 @@
+## 📈 GitHub Contributions
+
+![Ikromjon's GitHub contributions](https://ghchart.rshah.org/ikromjonxursanov)
+
 # Hi 👋 I'm Ikromjon Xursanov
 
 💻 Backend Developer | Python / Django / Django REST Framework  
@@ -45,12 +49,6 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 ## 🖥️ Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikromjonxursanov&layout=compact&theme=radical&langs_count=6)
-
----
-
-## 📈 GitHub Contributions
-
-![Ikromjon's GitHub contributions](https://ghchart.rshah.org/ikromjonxursanov)
 
 ---
 
