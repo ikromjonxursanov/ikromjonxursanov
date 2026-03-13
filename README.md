@@ -7,15 +7,15 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 
 ## 🏢 Work Experience
 
-- **UZINFOCOM LLS** — Intern / Junior Developer (2025–2026)  
+- **UZINFOCOM LLS** — Intern / Junior Developer (2026)  
   Contributed to backend development, API design, and database management.
 
 ---
 
 ## 🎓 Learning Journey
 
-- Self-taught Backend Developer through [Mohir Dev](https://mohirdev.uz) channel   
-- Built multiple projects: FastFood Delivery API, Blog API, Ecommerce API  
+- Self-taught Backend Developer through [Mohir Dev](https://mohirdev.uz) channel (2024–2026)  
+- Built multiple projects in 2026: FastFood Delivery API, Blog API, Ecommerce API  
 - Continuous learning in Python, Django, DRF, PostgreSQL, Git, Docker, HTML, CSS  
 
 ---
