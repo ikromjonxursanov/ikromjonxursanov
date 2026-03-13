@@ -42,6 +42,18 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 
 ---
 
+## 🖥️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikromjonxursanov&layout=compact&theme=radical)
+
+---
+
+## 📈 GitHub Contributions
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ikromjonxursanov&theme=react-dark)
+
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ikromjonxursanov)
