@@ -16,14 +16,14 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 
 - Self-taught Backend Developer through [Mohir Dev](https://mohirdev.uz) channel   
 - Built multiple projects: FastFood Delivery API, Blog API, Ecommerce API  
-- Continuous learning in Python, Django, DRF, PostgreSQL, Git, Docker  
+- Continuous learning in Python, Django, DRF, PostgreSQL, Git, Docker, HTML, CSS  
 
 ---
 
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,drf,postgres,git,docker" height="30"/>
+<img src="https://skillicons.dev/icons?i=python,django,drf,postgres,git,docker,html,css" height="30"/>
 </p>
 
 ---
@@ -44,13 +44,7 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 
 ## 🖥️ Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikromjonxursanov&layout=compact&theme=radical)
-
----
-
-## 📈 GitHub Contributions
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ikromjonxursanov&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikromjonxursanov&layout=compact&theme=radical&langs_count=6)
 
 ---
 
