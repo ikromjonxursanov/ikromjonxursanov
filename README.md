@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Ikromjon Xursanov
 
-<!--
-**ikromjonxursanov/ikromjonxursanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer (Python / Django / Django REST Framework)
 
-Here are some ideas to get you started:
+I build REST APIs and backend systems using Python and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,git,docker" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 FastFood Delivery Platform REST API  
+REST API for managing food delivery orders built with Django REST Framework.
+
+🔹 Blog API  
+Backend API for blog platform.
+
+🔹 Ecommerce API  
+Backend API for online store.
+
+---
+
+## 📊 GitHub Stats
+
+![Ikromjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikromjonxursanov&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ikromjonxursanov)
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/ikromjonxursanov
