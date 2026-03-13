@@ -14,7 +14,7 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 
 ## 🎓 Learning Journey
 
-- Self-taught Backend Developer through **mohirdev.uz** channel (2024–2026)  
+- Self-taught Backend Developer through [Mohir Dev](https://mohirdev.uz) channel   
 - Built multiple projects: FastFood Delivery API, Blog API, Ecommerce API  
 - Continuous learning in Python, Django, DRF, PostgreSQL, Git, Docker  
 
