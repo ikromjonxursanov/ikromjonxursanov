@@ -41,14 +41,13 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 ---
 
 ## 📊 GitHub Stats
-
-![Ikromjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikromjonxursanov&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🖥️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikromjonxursanov&layout=compact&theme=radical&langs_count=6)
 
 ---
 
