@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Ikromjon Xursanov
 
-💻 Backend Developer | Python / Django / Django REST Framework  
+💻 Backend Developer | Python / Django / Django REST Framework / PostgreSQL  
 I design and build REST APIs and backend systems with clean, maintainable code.
 
 ---
