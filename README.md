@@ -1,4 +1,4 @@
-## 📈 GitHub Contributions
+# 📈 GitHub Contributions
 
 ![Ikromjon's GitHub contributions](https://ghchart.rshah.org/ikromjonxursanov)
 
