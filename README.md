@@ -2,7 +2,7 @@
 
 ![Ikromjon's GitHub contributions](https://ghchart.rshah.org/ikromjonxursanov)
 
-# Hi 👋 I'm Ikromjon Xursanov
+# Hi 👋 I'm Ikromjon Khursanov
 
 💻 Backend Developer | Python / Django / Django REST Framework / PostgreSQL / Docker / Nginx 
 I design and build REST APIs and backend systems with clean, maintainable code.
