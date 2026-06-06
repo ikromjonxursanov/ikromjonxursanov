@@ -27,7 +27,7 @@ I design and build REST APIs and backend systems with clean, maintainable code.
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,git,docker,html,css" height="30"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,git,docker,html,
 </p>
 
 ---
